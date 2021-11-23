@@ -1,4 +1,5 @@
+output_dir: docs
 deleted_merged_file: true
-language:
- ui:
-  chapter_name: "Chapter"
+#language:
+# ui:
+#  chapter_name: "Chapter"
